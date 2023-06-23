@@ -1,1 +1,1 @@
-<div><span style={{fontSize:"20px"}}>Nelerion</span></div>
+<div style={{display:flex,justifyContent:"center}}><span>Nelerion</span></div>
