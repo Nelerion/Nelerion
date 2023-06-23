@@ -1,4 +1,8 @@
-# Nelerion
+<div align="center">  <img src="https://media2.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="200"/></div>
+<div id="header" align="center"}><h1>Nelerion</h1></div>
+Hi
+
+
 
 <img src="https://komarev.com/ghpvc/?username=Nelerion&style=flat-square&color=blue" alt=""/>
 
