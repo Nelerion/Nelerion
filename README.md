@@ -12,12 +12,29 @@
       <img src="https://komarev.com/ghpvc/?username=Nelerion&style=flat-square&color=blue" alt=""/>
    </div>
 </div>
-Hi
+  <h1>
+  Hey There
+  <a href="https://github.com/TimurPopovich">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </a>
+  </h1>
 
+### Name: Kirill ###
+#### Age: 28 ####
 
+My name is Kirill, and I am a passionate web and mobile developer.<br> I first dabbled in web development during my childhood, but it wasn't until 2021 <br> that I consciously returned to this field and fully immersed myself in it. Since then,<br> I have been working as a Mobile Developer at ***ITSports*** while also nurturing my love for web development.
 
+### :hammer_and_wrench: Languages and Tools :
 
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" **alt="typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nelerion&theme=dark&background=2c2a2c)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelerion&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
