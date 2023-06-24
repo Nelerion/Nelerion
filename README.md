@@ -48,3 +48,4 @@ My name is Kirill, and I am a passionate web and mobile developer.<br> I first d
 * NodeJs (basics)
 * NestJs (basics)
 * PostgreSQL (basics)
+* GIT
