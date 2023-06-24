@@ -38,3 +38,13 @@ My name is Kirill, and I am a passionate web and mobile developer.<br> I first d
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+* React
+* React native (expo)
+* Redux toolkit
+* NodeJs (basics)
+* NestJs (basics)
+* PostgreSQL (basics)
