@@ -13,7 +13,7 @@
    </div>
 </div>
   <h1>
-  Hey There
+ Frontend Developer
   <a href="https://github.com/TimurPopovich">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </a>
